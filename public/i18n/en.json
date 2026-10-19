@@ -1,0 +1,22 @@
+{
+    "topBarTitle": "Auto Highlight",
+    "aiDoc": "Highlight the whole document with AI",
+    "aiSelection": "Highlight the selection with AI",
+    "clearDoc": "Clear highlights in this document",
+    "needSelection": "Select some text in the editor first",
+    "noEditor": "Open a document first",
+    "none": "No text to highlight",
+    "running": "Still working, please wait…",
+    "processing": "Processing %d blocks…",
+    "aiProgress": "Asking the AI (batch %d/%d)…",
+    "aiOnce": "Asking the AI…",
+    "aiFailed": "AI request failed: %d",
+    "aiTimeout": "timed out or cancelled",
+    "aiParseEmpty": "Could not parse the AI answer (%d characters): %s",
+    "aiNoMatch": "The AI returned %d passages, but none could be located; answer starts with: %s",
+    "done": "Highlighted %d passages",
+    "skipped": "Skipped %d passages (no verbatim match)",
+    "cleared": "Cleared highlights in %d blocks",
+    "clearNone": "This document has no highlights created by this plugin",
+    "failed": "%d blocks could not be written"
+}

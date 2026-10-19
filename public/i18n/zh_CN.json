@@ -1,0 +1,22 @@
+{
+    "topBarTitle": "自动高亮",
+    "aiDoc": "AI 高亮整篇文档",
+    "aiSelection": "AI 高亮选中内容",
+    "clearDoc": "清除本文档高亮",
+    "needSelection": "请先在编辑器中选中一段文字",
+    "noEditor": "请先打开一篇文档",
+    "none": "没有找到可以高亮的文本",
+    "running": "正在处理，请稍候…",
+    "processing": "正在处理 %d 个块…",
+    "aiProgress": "正在请求 AI（第 %d/%d 批）…",
+    "aiOnce": "正在请求 AI…",
+    "aiFailed": "AI 请求失败：%d",
+    "aiTimeout": "超时或已取消",
+    "aiParseEmpty": "AI 返回的内容无法解析（共 %d 字）：%s",
+    "aiNoMatch": "AI 返回 %d 条，但都没能在原文中定位；返回内容开头：%s",
+    "done": "已高亮 %d 处",
+    "skipped": "跳过 %d 处（原文未逐字匹配）",
+    "cleared": "已清除 %d 个块的高亮",
+    "clearNone": "本文档没有本插件生成的高亮",
+    "failed": "有 %d 个块写入失败"
+}
